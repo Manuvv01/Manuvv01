@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Manuel (Manu) 👋
 
-<!--
-**Manuvv01/Manuvv01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm from Mexico and I'm passionate about growing in my career.
 
-Here are some ideas to get you started:
+I enjoy building ideas that come to mind and turning them into projects while expanding and improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like solving puzzles and exploring problems, always looking for the *why* and *how* behind things.
+
+I'm highly adaptable and enjoy learning new technologies and tools.
+
+---
+
+## Languages
+
+- Python
+- JavaScript
+- SQL
+
+---
+
+## Development Focus
+
+- Web Development
+- Backend Development
+
+---
+
+## Areas of Interest
+
+- Data
+- Machine Learning / AI
+- Quality Assurance
+
+Feel free to explore some of my public repositories and projects below.
