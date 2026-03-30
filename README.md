@@ -20,14 +20,13 @@ I'm highly adaptable and enjoy learning new technologies and tools.
 
 ## Development Focus
 
-- Web Development
 - Backend Development
-
+- Data Analysis
 ---
 
 ## Areas of Interest
 
-- Data
+
 - Machine Learning / AI
 - Quality Assurance
 
